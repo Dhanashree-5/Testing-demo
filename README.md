@@ -1,3 +1,4 @@
 # Testing-demo
-This is my first git repository
-Author-Dhanashree Lokhande
+This is my first git repository.
+<br>
+Author-Dhanashree Lokhande.
